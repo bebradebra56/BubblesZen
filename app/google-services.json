@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567279679675",
+    "project_id": "bubbleszen-5d2b8",
+    "storage_bucket": "bubbleszen-5d2b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567279679675:android:9e2936374c0dd4ca33919e",
+        "android_client_info": {
+          "package_name": "com.bubbzeniac.apssof"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACP4j4OVh9D63mmDrb2CtZy5BdpQ9j3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
